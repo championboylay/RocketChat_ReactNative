@@ -1,0 +1,1629 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Avatar avatar 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "backgroundColor": "#3F51B5",
+            "borderRadius": 4,
+            "height": 25,
+            "width": 25,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#ffffff",
+            },
+            Object {
+              "fontSize": 12.5,
+            },
+          ]
+        }
+      >
+        TE
+      </Text>
+      
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "backgroundColor": "#9C27B0",
+            "borderRadius": 4,
+            "height": 40,
+            "width": 40,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#ffffff",
+            },
+            Object {
+              "fontSize": 20,
+            },
+          ]
+        }
+      >
+        AA
+      </Text>
+      
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "backgroundColor": "#9C27B0",
+            "borderRadius": 4,
+            "height": 30,
+            "width": 30,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#ffffff",
+            },
+            Object {
+              "fontSize": 15,
+            },
+          ]
+        }
+      >
+        BB
+      </Text>
+      
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "backgroundColor": "#3F51B5",
+            "borderRadius": 2,
+            "height": 25,
+            "width": 25,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#ffffff",
+            },
+            Object {
+              "fontSize": 12.5,
+            },
+          ]
+        }
+      >
+        TE
+      </Text>
+      
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`Storyshots Channel Cell Direct Messages 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="rocket.cat, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#8BC34A",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            RC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            rocket.cat
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="rocket.cat, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#8BC34A",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            RC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+          >
+            rocket.cat
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="rocket.cat, 1 alert, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#8BC34A",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            RC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            rocket.cat
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          1
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 9 alerts, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#795548",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            LC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          9
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 99 alerts, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#795548",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            LC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          99
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 100 alerts, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#795548",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            LC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          100
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 100000 alerts, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#795548",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            LC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          999+
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 100000 alerts, you were mentioned, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#795548",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            LC
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "backgroundColor": "#1d74f5",
+              "borderRadius": 3,
+              "color": "#fff",
+              "fontSize": 14,
+              "minWidth": 20,
+              "overflow": "hidden",
+              "paddingHorizontal": 5,
+              "paddingVertical": 2,
+              "textAlign": "center",
+            }
+          }
+        >
+          @ 999+
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="W, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#E91E63",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            W
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            W
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel="WW, last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": "#9C27B0",
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            WW
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            WW
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel=", last message Nov 10"
+      accessibilityTraits="selected"
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "paddingHorizontal": 16,
+              "paddingVertical": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "overflow": "hidden",
+              },
+              Object {
+                "backgroundColor": undefined,
+                "borderRadius": 4,
+                "height": 40,
+                "width": 40,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={false}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            
+          </Text>
+          
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginLeft": 16,
+              "marginRight": 4,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "color": "#444",
+                  "flex": 1,
+                  "fontSize": 16,
+                },
+                undefined,
+              ]
+            }
+          >
+            
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Object {
+                "color": "#888",
+                "flex": 1,
+                "fontSize": 10,
+              }
+            }
+          >
+            Nov 10
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
