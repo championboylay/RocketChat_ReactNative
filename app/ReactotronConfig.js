@@ -2,7 +2,7 @@
 import Reactotron, { asyncStorage, networking, openInEditor } from 'reactotron-react-native';
 import { NativeModules } from 'react-native';
 
-import { reactotronRedux } from 'reactotron-redux';
+//import { reactotronRedux } from 'reactotron-redux';
 
 // uncomment the following lines to test on a device
 // let scriptHostname;
@@ -13,7 +13,7 @@ import { reactotronRedux } from 'reactotron-redux';
 
 Reactotron.configure(/*{ host: scriptHostname }*/) // controls connection & communication settings
   .useReactNative() // add all built-in react native plugins
-  .use(reactotronRedux())
+  //.use(reactotronRedux())
   .use(asyncStorage())
   .use(networking())
   .use(openInEditor())

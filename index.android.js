@@ -7,7 +7,10 @@ import RocketChat from './app/index';
 
 UIManager.setLayoutAnimationEnabledExperimental(true);
 
-// import './app/ReactotronConfig';
+import './app/ReactotronConfig';
+//import './app/utils/LogConfig '
+
+//LogConfig.configure({ enableLog: true })
 // import { AppRegistry } from 'react-native';
 // import Routes from './app/routes';
 //
